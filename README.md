@@ -63,9 +63,9 @@ If you plan to run it on UCSD DSMLP cluster, then, use the ```demo.ipynb``` file
 
 ### Team Members
 
+Shakeel Ahamed Mansoor Shaikna\
 Siddarth Meenakshi Sundaram\
 Venkatesh Prasad Venkataramanan\
-Shakeel Ahamed Mansoor Shaikna\
 Zirui Wang.
 
 
